@@ -25,7 +25,6 @@ const amhaji = {
 
 
 ```javascript
-
 const amhaji = {
   name: "Amirali",
   pronouns: ["He", "Him"],
