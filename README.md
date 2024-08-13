@@ -1,5 +1,5 @@
 
-
+```javascript
 const FS_Developer = {
   name: "Ali Moradi",
   birthday: "2006/Nov/04",
@@ -26,8 +26,7 @@ const FS_Developer = {
   ],
   funFact: "I Can Speak In 3 Programming Languages... 😉😎",
 };
-
-
+```
 
 
 
