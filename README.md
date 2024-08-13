@@ -33,9 +33,7 @@ const amhaji = {
 ```
 
 
-```javascript
-
-  
+```javascript  
 let skils = {
   code: ["JS", "HTML", "CSS", "git", "cpp"],
   tools: ["Bootstrap", "Git"],
