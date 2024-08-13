@@ -27,6 +27,49 @@ const amhaji = {
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amhajii" alt="amhajii" /></a> </p> -->
 
 
+
+
+
+
+
+
+
+
+  
+</div>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,php,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,react,threejs,nodejs" /><br>
+     <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere" /><br>
+
+</div>
+<div>
+    <br>
+    <h2 align="center"> Persistence is the master key to the gates of success.</h2>
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saeid-Soodi&theme=vue-dark&hide_border=false)<br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeid-Soodi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+<br/>
+<hr/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
