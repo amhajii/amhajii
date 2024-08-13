@@ -1,26 +1,11 @@
 
 ```javascript
-const FS_Developer = {
-  name: "Ali Moradi",
-  birthday: "2006/Nov/04",
+const hhjgg = {
+  name: "Amirali",
   pronouns: ["He", "Him"],
-  code: ["JS", "TS", "ReactJs", "NextJs", "NodeJs", "NestJs", "ExpressJs", "HTML", "CSS" ],
+  code: ["JS", "HTML", "CSS" , "git" , "cpp" ],
   tools: [
-    "React-Hook-Form",
-    "React-Bootstrap",
-    "React-Router",
-    "TailwindCss",
-    "SweetAlert",
     "Bootstrap",
-    "SwiperJs",
-    "ChartJs",
-    "AosCss",
-    "Lodash",
-    "Redux",
-    "Axios",
-    "Sass",
-    "Npm",
-    "Mui",
     "Git",
     And Lots More... 🐱‍💻
   ],
