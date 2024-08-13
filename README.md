@@ -21,7 +21,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amhajii&" alt="amhajii" /></p>
 
 
-<h2 align="center">Hi 👋! My name is Amirali and I'm a developer from Iran</h2>
 
 ###
 
