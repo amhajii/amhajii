@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Amirali</h1>
 <h3 align="center">A 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 </h3>
 
-
+<!--
 ```javascript
 const amhaji = {
   name: "Amirali",
@@ -21,7 +21,7 @@ const amhaji = {
   funFact: "I Can Speak In 3 Programming Languages... 😉😎",
 };
 ```
-
+-->
 
 
 ```javascript
