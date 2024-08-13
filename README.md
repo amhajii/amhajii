@@ -1,4 +1,13 @@
 
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Amirali</h1>
+<h3 align="center">A 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 </h3>
+
+
 ```javascript
 const hhjgg = {
   name: "Amirali",
@@ -12,13 +21,6 @@ const hhjgg = {
   funFact: "I Can Speak In 3 Programming Languages... 😉😎",
 };
 ```
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Amirali</h1>
-<h3 align="center">A 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhajii&label=Profile%20views&color=0e75b6&style=flat" alt="amhajii" /> </p>
 
