@@ -9,7 +9,7 @@
 
 
 ```javascript
-const hhjgg = {
+const amhaji = {
   name: "Amirali",
   pronouns: ["He", "Him"],
   code: ["JS", "HTML", "CSS" , "git" , "cpp" ],
