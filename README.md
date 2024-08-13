@@ -53,11 +53,10 @@ const amhaji = {
     <br>
     <h2 align="center"> Persistence is the master key to the gates of success.</h2>
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saeid-Soodi&theme=vue-dark&hide_border=false)<br/><br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeid-Soodi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amhajii&theme=vue-dark&hide_border=false)<br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amhajii&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <br/>
 <hr/>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </div>
 
