@@ -36,7 +36,6 @@ const amhaji = {
 
 ```javascript
 
-const amhaji = {
   
 let skils = {
   code: ["JS", "HTML", "CSS", "git", "cpp"],
