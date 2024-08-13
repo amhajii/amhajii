@@ -1,3 +1,38 @@
+
+
+const FS_Developer = {
+  name: "Ali Moradi",
+  birthday: "2006/Nov/04",
+  pronouns: ["He", "Him"],
+  code: ["JS", "TS", "ReactJs", "NextJs", "NodeJs", "NestJs", "ExpressJs", "HTML", "CSS" ],
+  tools: [
+    "React-Hook-Form",
+    "React-Bootstrap",
+    "React-Router",
+    "TailwindCss",
+    "SweetAlert",
+    "Bootstrap",
+    "SwiperJs",
+    "ChartJs",
+    "AosCss",
+    "Lodash",
+    "Redux",
+    "Axios",
+    "Sass",
+    "Npm",
+    "Mui",
+    "Git",
+    And Lots More... 🐱‍💻
+  ],
+  funFact: "I Can Speak In 3 Programming Languages... 😉😎",
+};
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Amirali</h1>
 <h3 align="center">A 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 </h3>
 
