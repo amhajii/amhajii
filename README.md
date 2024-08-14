@@ -38,8 +38,8 @@ const amhaji = {
 
 ```javascript  
 let skils = {
-  code: ["JS", "HTML", "CSS", "git", "cpp"],
-  tools: ["Bootstrap", "Git"],
+  code: ["JS", "HTML", "CSS", "cpp"],
+  tools: ["Bootstrap", "git"],
 };
 ```
 
