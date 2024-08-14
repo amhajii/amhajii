@@ -12,14 +12,14 @@
 ```
 <!--
 ```javascript
-//const amhaji = {
-//  name: "Amirali",
-//  pronouns: ["He", "Him"],
-//  code: ["JS", "HTML", "CSS" , "git" , "cpp" ],
-//  tools: [
-//    "Bootstrap",
-//    "Git",
-//    And Lots More... 🐱‍💻
+const amhaji = {
+  name: "Amirali",
+  pronouns: ["He", "Him"],
+  code: ["JS", "HTML", "CSS" , "git" , "cpp" ],
+  tools: [
+    "Bootstrap",
+    "Git",
+    And Lots More... 🐱‍💻
   ],
   funFact: "I Can Speak In 3 Programming Languages... 😉😎",
 };
