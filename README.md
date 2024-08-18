@@ -22,7 +22,7 @@ const amhaji = {
     "Git",
     And Lots More... 🐱‍💻
   ],
-  funFact: "I Can Speak In 3 Programming Languages... 😉😎",
+  funFact: "I Can Speak In 3 Programming Languages...1 😉😎",
 };
 ```
 -->
