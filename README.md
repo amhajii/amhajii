@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Amirali</h1>
 
+![b](https://github.com/amhajii/amhajii/blob/main/img/004.jpg)
 ```javascript
 //A 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
@@ -30,7 +31,6 @@ const amhaji = {
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/118324.jpg) -->
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/mainPic.jpg) -->
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/003.jpg) -->
-![b](https://github.com/amhajii/amhajii/blob/main/img/004.jpg)
 
 ```javascript
 const amhaji = {
