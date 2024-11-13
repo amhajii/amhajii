@@ -40,7 +40,7 @@ const amhaji = {
 const amhaji = {
   name: "Amirali",
   pronouns: ["He", "Him"],
-  Age: 19,
+  Age: 20,
 };
 ```
 
