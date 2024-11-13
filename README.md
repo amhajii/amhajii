@@ -27,6 +27,7 @@ const amhaji = {
 ```
 -->
 
+![b](https://github.com/amhajii/amhajii/blob/main/img/118324.jpg)
 
 ```javascript
 const amhaji = {
