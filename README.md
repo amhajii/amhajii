@@ -28,7 +28,8 @@ const amhaji = {
 -->
 
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/118324.jpg) -->
-![b](https://github.com/amhajii/amhajii/blob/main/img/mainPic.jpg)
+<!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/mainPic.jpg) -->
+![b](https://github.com/amhajii/amhajii/blob/main/img/003.jpg)
 
 ```javascript
 const amhaji = {
