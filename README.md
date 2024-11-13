@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Amirali</h1>
 
+![b](https://github.com/amhajii/amhajii/blob/main/img/008.jpg)
 ![b](https://github.com/amhajii/amhajii/blob/main/img/006.jpg)
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/007.jpg) -->
 ```javascript
