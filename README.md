@@ -45,7 +45,7 @@ const amhaji = {
 
 ```javascript  
 let skils = {
-  code:  [     "JS"     , "HTML" ,  "CSS" ,   "cpp"       ],
+  code:  [  "-- JS ---" , "HTML" , "CSS"  , "-- cpp --"   ],
   tools: [  "Bootstrap" , "git"  , "sass" , "photoshop"   ],
 };
 ```
