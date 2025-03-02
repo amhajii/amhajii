@@ -8,10 +8,7 @@
 
 ![b](https://github.com/amhajii/amhajii/blob/main/img/006.jpg)
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/008.jpg) -->
-```javascript
-//A 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 .
 
-```
 <!--
 ```javascript
 const amhaji = {
