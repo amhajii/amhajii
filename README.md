@@ -35,7 +35,6 @@ const amhaji = {
 const amhaji = {
 
     name: 'Amirali',
-    pronouns: ['He', 'Him'],
     Age: 20,
 
 };
@@ -104,6 +103,7 @@ let skills = {
 ###
 
 <br clear="both">
+
 
 
 
