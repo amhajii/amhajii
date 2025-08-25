@@ -34,8 +34,8 @@ const amhaji = {
 ```javascript
 const amhaji = {
 
-    name: "Amirali",
-    pronouns: ["He", "Him"],
+    name: 'Amirali',
+    pronouns: ['He', 'Him'],
     Age: 20,
 
 };
@@ -43,10 +43,10 @@ const amhaji = {
 
 
 ```javascript  
-let skils = {
+let skills = {
 
-    code: ["JS" , "HTML" , "CSS" , "cpp"],
-    tools: ["Bootstrap", "git" , "sass" , "photoshop"],
+    code: ['JS' , 'HTML' , 'CSS' , 'cpp'],
+    tools: ['Bootstrap', 'git' , 'sass' , 'photoshop'],
 
 };
 ```
@@ -104,6 +104,7 @@ let skils = {
 ###
 
 <br clear="both">
+
 
 
 
