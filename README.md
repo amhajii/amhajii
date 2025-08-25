@@ -32,7 +32,7 @@ const amhaji = {
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/005.jpg) -->
 
 ```javascript
-const amhaji = {
+const AmHaji = {
 
     name: 'Amirali',
     Age: 20,
@@ -103,6 +103,7 @@ let skills = {
 ###
 
 <br clear="both">
+
 
 
 
