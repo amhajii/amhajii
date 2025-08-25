@@ -33,17 +33,21 @@ const amhaji = {
 
 ```javascript
 const amhaji = {
+
   name: "Amirali",
   pronouns: ["He", "Him"],
   Age: 20,
+
 };
 ```
 
 
 ```javascript  
 let skils = {
+
   code: ["JS" , "HTML" , "CSS" , "cpp"],
   tools: ["Bootstrap", "git" , "sass" , "photoshop"],
+
 };
 ```
 
@@ -100,6 +104,7 @@ let skils = {
 ###
 
 <br clear="both">
+
 
 
 
