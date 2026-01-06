@@ -35,7 +35,7 @@ const amhaji = {
 const AmHaji = {
     name: 'Amirali',
     Age: 20,
-};
+}
 ```
 
 
@@ -43,7 +43,7 @@ const AmHaji = {
 let skills = {
     code: ['JavaScript' , 'React' , 'electronJs' , 'Python' , 'HTML' , 'CSS' , 'C++' 'bash'],
     tools: ['tailwind' , 'sass' , 'photoshop' , 'LaTex'],
-};
+}
 ```
 
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhajii&label=Profile%20views&color=0e75b6&style=flat" alt="amhajii" /> </p> -->
@@ -99,6 +99,7 @@ let skills = {
 ###
 
 <br clear="both">
+
 
 
 
