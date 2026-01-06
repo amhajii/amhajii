@@ -6,7 +6,9 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Amirali</h1>-->
 
- ![b](https://github.com/amhajii/amhajii/blob/main/img/006.jpg) 
+ <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/006.jpg) -->
+# $`Amirali \ HajiShamsaiy`$
+ 
 <!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/008.jpg) -->
 
 <!--
@@ -103,7 +105,7 @@ let skills = {
 
 
 
-## $`Python \ | \ JavaScript \ | \ React-electronJs-Python-HTML-CSS-Cpp-bash`$
+
 
 
 
