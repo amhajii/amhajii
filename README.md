@@ -44,8 +44,8 @@ const AmHaji = {
 ```javascript  
 let skills = {
 
-    code: ['JS' , 'HTML' , 'CSS' , 'cpp'],
-    tools: ['Bootstrap', 'git' , 'sass' , 'photoshop'],
+    code: ['JavaScript' , 'React' , 'electronJs' , 'Python' , 'HTML' , 'CSS' , 'C++' 'bash'],
+    tools: ['tailwind' , 'sass' , 'photoshop' , 'LaTex'],
 
 };
 ```
@@ -103,6 +103,7 @@ let skills = {
 ###
 
 <br clear="both">
+
 
 
 
