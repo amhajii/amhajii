@@ -103,7 +103,8 @@ let skills = {
 
 
 
-## $`Python-JavaScript-React-electronJs-Python-HTML-CSS-Cpp-bash`$
+## $`Python \ | \ JavaScript \ | \ React-electronJs-Python-HTML-CSS-Cpp-bash`$
+
 
 
 
