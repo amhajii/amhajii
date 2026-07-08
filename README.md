@@ -1,37 +1,6 @@
 
+![Img](https://github.com/amhajii/amhajii/blob/main/img/006.jpg)
 
-
-
-
-
-<!-- <h1 align="center">Hi 👋, I'm Amirali</h1>-->
-
- ![b](https://github.com/amhajii/amhajii/blob/main/img/006.jpg)
-
- 
-<!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/008.jpg) -->
-
-<!--
-```javascript
-const amhaji = {
-  name: "Amirali",
-  pronouns: ["He", "Him"],
-  code: ["JS", "HTML", "CSS" , "git" , "cpp" ],
-  tools: [
-    "Bootstrap",
-    "Git",
-    And Lots More... 🐱‍💻
-  ],
-  funFact: "I Can Speak In 3 Programming Languages...5 😉😎",
-};
-```
--->
-
-<!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/118324.jpg) -->
-<!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/mainPic.jpg) -->
-<!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/003.jpg) -->
-<!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/004.jpg) -->
-<!-- ![b](https://github.com/amhajii/amhajii/blob/main/img/005.jpg) -->
 
 ```javascript
 const AmHaji = {
@@ -42,20 +11,18 @@ const AmHaji = {
 
 
 ```javascript  
-let skills = {
-    code: ['JavaScript' , 'React' , 'electronJs' , 'Python' , 'HTML' , 'CSS' , 'C++' 'bash'],
-    tools: ['tailwind' , 'sass' , 'photoshop' , 'LaTex'],
-}
+
+const amirali = {
+    buildingWith: ['JavaScript', 'React', 'Electron', 'Python', 'C++' , 'Bash'],
+    tools: ['Git', 'Tailwind-CSS', 'Sass' , 'Photoshop'],
+    learning: ['TypeScript', 'Next.js']
+};
+
 ```
 
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhajii&label=Profile%20views&color=0e75b6&style=flat" alt="amhajii" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amhajii" alt="amhajii" /></a> </p>  -->
-
-
-
-
-
 
 
 
