@@ -5,17 +5,18 @@
 ```javascript
 const AmHaji = {
     name: 'Amirali',
-    Age: 20,
+    Age: 21,
 }
 ```
 
 
 ```javascript  
 
-const amirali = {
-    buildingWith: ['JavaScript', 'React', 'Electron', 'Python', 'C++' , 'Bash'],
+const skills = {
+    buildWith: ['JS', 'React', 'Electron', 'Python', 'C++' , 'Bash'],
     tools: ['Git', 'Tailwind-CSS', 'Sass' , 'Photoshop'],
-    learning: ['TypeScript', 'Next.js']
+
+    // learning: ['TS', 'Next.js']
 };
 
 ```
